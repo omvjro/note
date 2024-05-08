@@ -15,7 +15,7 @@ const nextConfig = {
     theme: 'both', // 'light' or 'dark' or 'both'
     rss: 'true', // true or false
     back2top: 'true', // true or false
-    mail: 'liuyihan0410@gmail.com', // your email
+    mail: 'omvjro@outlook.com', // your email
     twitter: '', // your twitter
     bio: '',
   },
