@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/indent */
 import { useTheme } from 'next-themes'
 import { useEffect } from 'react'
-import { ReactMarkdown } from 'react-markdown/lib/react-markdown'
+import { ReactMarkdown } from 'react-markdown'
 import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter'
 import { a11yDark as dark, prism as light } from 'react-syntax-highlighter/dist/cjs/styles/prism'
 import rehypeRaw from 'rehype-raw'
