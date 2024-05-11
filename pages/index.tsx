@@ -33,9 +33,9 @@ const Index: NextPageWithLayout<{ posts: Post[]; user: User }>
    return (
      <div>
        <div className="mb-8 mx-auto inline-block">
-         <div className="relative md:w-24 md:h-24 w-14 h-14 mb-3">
+{/*          <div className="relative md:w-24 md:h-24 w-14 h-14 mb-3">
            <Image src={user.avatar_url} alt="avatar" fill className="rounded-full" />
-         </div>
+         </div> */}
          <p className="mx-auto lg:text-xl text-md italic font-en">{process.env.bio || user.bio}</p>
          <hr className="dark:border-dashed" />
        </div>
