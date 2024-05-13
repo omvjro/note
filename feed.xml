@@ -4,11 +4,17 @@
         <description><![CDATA[I have nothing to say.]]></description>
         <link>https://qianxi0410.github.io/gossip</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 May 2024 05:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 13:17:38 GMT</lastBuildDate>
         <atom:link href="https://qianxi0410.github.io/gossip/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 May 2024 05:22:02 GMT</pubDate>
+        <pubDate>Mon, 13 May 2024 13:17:38 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2024, omvjro]]></copyright>
         <language><![CDATA[zh-CN]]></language>
+        <item>
+            <title><![CDATA[Git 备忘]]></title>
+            <link>https://qianxi0410.github.io/gossip/post/Git 备忘</link>
+            <guid isPermaLink="true">https://qianxi0410.github.io/gossip/post/Git 备忘</guid>
+            <pubDate>Mon, 13 May 2024 13:16:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MediaWiki 语言变体补遗]]></title>
             <description><![CDATA[MediaWiki]]></description>
